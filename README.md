@@ -8,19 +8,19 @@ System
 Scripting
 
 Used commands:
-ifconfig 
-grep
-cut
-sed
-cat
-awk
-arp
-netstat 
-nslookup 
-whois 
-traceroute
-df
-top
-tail
-cron
-ssh connection
+* ifconfig 
+* grep
+* cut
+* sed
+* cat
+* awk
+* arp
+* netstat
+* nslookup
+* whois
+* traceroute
+* df
+* top
+* tail
+* cron
+* ssh connection
