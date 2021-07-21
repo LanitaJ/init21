@@ -1,5 +1,5 @@
 ### [Init](https://github.com/LanitaJ/init21)
-init is a School 21 DevOps project.
+init is a School21(aka. Ecole42) DevOps project.
 
 It consists of three parts:
 
